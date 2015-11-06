@@ -1,0 +1,1 @@
+At this moment whalebot does not support robots.txt (but it is in roadmap). If you was disturbed by his activity write me whalebot.helmsman@gmail.com
